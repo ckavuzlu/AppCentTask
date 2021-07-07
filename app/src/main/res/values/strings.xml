@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nasa Photos</string>
+    <string name="error">Error</string>
+    <string name="something_went_wrong">\"Something went wrong \"</string>
+    <string name="ok">Ok</string>
+    <string name="launch_and_land_date">%1$s / %2$s</string>
+</resources>
